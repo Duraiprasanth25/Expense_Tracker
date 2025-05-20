@@ -1,4 +1,4 @@
-# 💰 Expense Management System
+# Expense Management System 💰
 
 A simple and effective **Expense Management System** built using **FastAPI** for the backend and **Streamlit** for the frontend. Track, visualize, and manage your expenses seamlessly.
 
@@ -14,15 +14,15 @@ A simple and effective **Expense Management System** built using **FastAPI** for
 ├── Tests/            # Unit tests for frontend and backend
 ├── requirements.txt  # Python dependencies
 └── README.md         # Project documentation
+```
+---
 
-
-  
- 🚀 Getting Started
-##Setup Instructions
+### Getting Started 🚀
+## Setup Instructions
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/expense-management-system.git
+   git clone https://github.com/duraiprasanth25/expense-management-system.git
    cd expense-management-system  
    ```
 1. **Install dependencies**:   
@@ -37,28 +37,30 @@ A simple and effective **Expense Management System** built using **FastAPI** for
    ```commandline
     streamlit run frontend/app.py
    ```
-🧪 Running Tests
+### 🧪 Running Tests
 You can add and run tests inside the tests/ directory using pytest or any preferred test runner.
 
-📌 Features
-Add, edit, and delete daily expenses
+### 📌 Features
+**Add, edit, and delete daily expenses**
 
-Categorized expense summaries
+**Categorized expense summaries**
 
-Interactive analytics via charts
+**Monthly expense summaries**
 
-Clean UI with real-time updates
+**Interactive analytics via charts**
 
-🛠️ Built With
-FastAPI – Backend API
+**Clean UI with real-time updates**
 
-Streamlit – Frontend UI
+### 🛠️ Built With
+#### FastAPI – Backend API
 
-MySQL – Database
+#### Streamlit – Frontend UI
 
-Python – Core language
+#### MySQL – Database
+
+#### Python – Core language
 
 📬 Contact
 For questions, suggestions, or collaborations:
 
-Duraiprasanth S – [LinkedIn](https://linkedin.com/in/duraiprasanth25) | [GitHub](https://github.com/Duraiprasanth25)
+*Duraiprasanth S* – [LinkedIn](https://linkedin.com/in/duraiprasanth25) | [GitHub](https://github.com/Duraiprasanth25)
